@@ -1,0 +1,91 @@
+[
+    {
+        "id": 0,
+        "title": "Double Attack",
+        "description": "Double Attack!!!",
+      
+        "slug": "Skill1",
+        "type": "Active",
+        "cooltime": 3,
+        "level" :  1, //요구레벨임..
+        "durationtime": 0,
+        "requiremp": 30
+            
+            
+         
+    },
+    {
+        "id": 1,
+        "title": "Triple Attack",
+        "description": "Triple Attack!!!",
+      
+        "slug": "Skill2",
+        "type": "Active",
+        "cooltime": 5,
+        "level": 2,
+        "durationtime": 0,
+        "requiremp": 30
+
+
+    },
+    {
+        "id": 2,
+        "title": "Poison",
+        "description": "Poison!!!",
+        
+        "slug": "Skill3",
+        "type": "Buff",
+        "cooltime": 30,
+        "level" :  3,
+        "durationtime": 30,
+        "requiremp": 30
+    },
+    {
+        "id": 3,
+        "title": "IceBlast",
+        "description": "IceBlast!!!",
+       
+        "slug": "Skill4",
+        "type": "Buff",
+        "cooltime": 30,
+        "level" :  4,
+        "durationtime": 10,
+        "requiremp": 30
+    },
+    {
+        "id": 4,
+        "title": "Jump Attack",
+        "description": "Jump Attack!!!",
+
+        "slug": "Skill5",
+        "type": "Active",
+        "cooltime": 10,
+        "level": 5,
+        "durationtime": 0,
+        "requiremp": 30
+    },
+    {
+        "id": 5,
+        "title": "gravity",
+        "description": "gravity Panel!!!",
+
+        "slug": "Skill6",
+        "type": "Active",
+        "cooltime": 30,
+        "level": 6,
+        "durationtime": 0,
+        "requiremp": 30
+    },
+     {
+        "id": 6,
+        "title": "WhirlWind",
+        "description": "WhirlWind!!!",
+      
+        "slug": "Skill7",
+        "type": "Active",
+        "cooltime": 30,
+        "level" :  7,
+        "durationtime": 10,
+        "requiremp": 30
+    }
+]

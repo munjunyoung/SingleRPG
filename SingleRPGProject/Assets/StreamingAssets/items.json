@@ -1,0 +1,71 @@
+[
+    {
+        "id": 0,
+        "title": "Hammer",
+        "value": 700,
+        "stats": {
+            "power": 50
+        },
+        "description": "Power Hammer",
+        "stackable":  false,//한슬롯에 여러개의 아이템 (갯수로 쌓는 포션같은 가능한것인지)
+        "slug": "W_Mace013",
+        "type": "Weapon"
+    },
+    {
+        "id": 1,
+        "title": "Sword",
+        "value": 1500,
+        "stats": {
+            "power": 90
+        },
+        "description": "Dark Sword",
+        "stackable": false,
+        "slug": "W_Sword021",
+        "type": "Weapon"
+
+    },
+
+    {
+        "id": 2,
+        "title": "Axe",
+        "value": 550,
+        "stats": {
+            "power": 35
+        },
+        "description": "Head Crush",
+        "stackable": false,
+        "slug": "W_Axe014",
+        "type": "Weapon"
+
+    },
+
+    {
+        "id": 3,
+        "title": "Normal Sword",
+        "value": 35,
+        "stats": {
+            "power": 10
+        },
+        "description": "Normal Sword",
+        "stackable": false,
+        "slug": "W_NormalSword",
+        "type": "Weapon"
+
+    },
+    
+
+
+    {
+            "id": 10,
+        "title": "Potion",
+        "value": 30,
+        "stats": {
+            "power": 30
+        },
+        "description": "normal potion!",
+        "stackable": true,
+        "slug": "Hp30 Potion",
+        "type":  "Food"
+       
+    }
+]
